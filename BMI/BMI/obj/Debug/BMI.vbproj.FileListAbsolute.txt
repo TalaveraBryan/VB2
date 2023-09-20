@@ -1,0 +1,25 @@
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\bin\Debug\BMI.xml
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.vbproj.AssemblyReference.cache
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.Resources.resources
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.vbproj.GenerateResource.cache
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.vbproj.CoreCompileInputs.cache
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.xml
+C:\Users\CL1 PC\Desktop\Talavera, Bryan Jay G\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\obj\Debug\BMI.xml
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\bin\Debug\BMI.xml
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\obj\Debug\BMI.vbproj.AssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\obj\Debug\BMI.Resources.resources
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\obj\Debug\BMI.vbproj.GenerateResource.cache
+C:\Users\Windows 10\OneDrive\Desktop\BMI\BMI\obj\Debug\BMI.vbproj.CoreCompileInputs.cache
